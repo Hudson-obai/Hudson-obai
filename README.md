@@ -11,7 +11,7 @@
 
 📫 You can reach me on my primary email Hudsonobai@gmail.com. Check out my portfolio at www.hudsonobai.com.
 
-![Obai's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hudson-obai&show_icons=true&theme=radical&count_private=true)
+![Obai's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hudson-obai&show_icons=true&theme=cobalt&count_private=true)
 
 
 
