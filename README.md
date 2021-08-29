@@ -12,7 +12,7 @@
 📫 You can reach me on my primary email Hudsonobai@gmail.com. Check out my portfolio at www.hudsonobai.com.
 
 ![Obai's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hudson-obai&show_icons=true&theme=cobalt&count_private=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hudson-obai)](https://github.com/Hudson-obai/github-readme-stats)
 
 
 
